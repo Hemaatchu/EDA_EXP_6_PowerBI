@@ -1,3 +1,4 @@
+## EXP NO: 6
 **Case Study: Healthcare Patient Tracking Analysis using Power BI**
 **Aim**
 
@@ -57,5 +58,9 @@ Create appropriate DAX measures or calculated columns wherever required for the 
 
 **Output**
 
+<img width="1355" height="743" alt="Hemavathy S (212223230076)" src="https://github.com/user-attachments/assets/307417d5-c7d2-4db5-aa94-326d81e7b8d1" />
+
+
 **Result**
+
 Thus, the healthcare patient tracking data was successfully analyzed using Power BI, and an interactive dashboard was developed to identify important patient patterns, cases requiring attention, and operational insights for healthcare management.
